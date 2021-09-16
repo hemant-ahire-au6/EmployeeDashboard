@@ -148,7 +148,7 @@ export default function NavbarDropdown() {
             root: classes.avatarRoot,
           }}
         />
-        <Hidden smDown>Jessica Jones</Hidden>
+        <Hidden smDown>Bansri Patel</Hidden>
       </Button>
       {renderMenu}
     </>
